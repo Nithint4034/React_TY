@@ -1,0 +1,17 @@
+===================================================
+Assignment 6 ( Jan 13 )
+===================================================
+
+1. TODO app
+
+2. Table CRUD operation - refer link - Educational Tab 
+(https://technoelevate-ess-lite.netlify.app/) 
+
+3. Form Validation 
+
+
+4. Form validation with table below 6
+
+5. Password hide and show 
+
+6. PersonList and PersonDetail
